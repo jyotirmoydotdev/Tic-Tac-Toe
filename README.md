@@ -10,8 +10,10 @@
  Enter player 1 first name:
 ```
 
-To avoid any promblem you can run the file with the command
-```
-g++ -std=c++20 main.cpp -o main
-./main
+Tic Tac Toe is a terminal game written in C++. The game allows two players to play against each other, taking turns marking spaces on a 3x3 grid. The first player to get three in a row wins. The game is easy to play and a great way to pass the time.
+
+# Usage
+```bash
+$ g++ -std=c++20 main.cpp -o main
+$ ./main
 ```
